@@ -5,7 +5,6 @@
 <div>
   <a href="https://github.com/rafinhahdc19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafinhahdc19&show_icons=true&theme=dark">
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinhahdc19&layout=compact&langs_count=16&theme=dark">
 </div>
 
 ## 🚀 Principais Tecnologias
